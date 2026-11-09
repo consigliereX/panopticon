@@ -129,7 +129,7 @@ none of them answer), and the systemd unit, which assumes systemd. Only the
 distributions are welcome.
 
 ```bash
-git clone https://github.com/Consigliere-X/panopticon
+git clone https://github.com/consigliereX/panopticon.git
 cd panopticon
 ./fetch-data.sh          # fetch reference datasets (PSL, tracker map, ASN)
 ./build.sh
